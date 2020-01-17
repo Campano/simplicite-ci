@@ -1,0 +1,3 @@
+[submodule "simplicite_modules/Demo"]
+	path = simplicite_modules/Demo
+	url = https://github.com/simplicitesoftware/module-demo.git
